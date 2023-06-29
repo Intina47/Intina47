@@ -1,5 +1,5 @@
 ## Language Breakdown
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={mamba}&layout=compact&hide=html)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={Intina47}&layout=compact&hide=html)
 ### Hi there 👋
 I'm Ntina, a passionate computer science student in my third year of studies. I have a keen interest in exploring various fields of computer science, and currently, I'm focused on expanding my knowledge in machine learning.
 
