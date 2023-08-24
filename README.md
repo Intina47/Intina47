@@ -5,7 +5,7 @@
 ## My Projects
 
 ### Project 1: Project Name
-[![Project 1 Preview](public/afrobeats.png)]([https://vercel-project1-url.com](https://afrobeatsdundee.vercel.app/))
+[![Project 1 Preview](public/afrobeats.png)](https://afrobeatsdundee.vercel.app/))
 Afro Beats Night club website
 
 ### Hi there 👋
