@@ -4,7 +4,7 @@
 
 ## My Projects
 
-### Project 1: Project Name
+### Project 1: Afro Beats Night club
 [![Project 1 Preview](public/afrobeats.png)](https://afrobeatsdundee.vercel.app/))
 Afro Beats Night club website
 
