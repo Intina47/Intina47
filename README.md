@@ -2,16 +2,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Intina47&layout=compact&hide=html)
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Intina47&show_icons=true&theme=radical&exclude_repo=contributed&hide=contribs)
 
-## My Projects
-
-### Afrobeats Dundee App
-Check out the live version of the [Afrobeats Dundee App](https://afrobeatsdundee.vercel.app/) right here:
-
-<iframe src="https://afrobeatsdundee.vercel.app/" width="100%" height="400px" style="border: none;"></iframe>
-
-Afro Beats Night club website
-
-
 ### Hi there 👋
 I'm Ntina, a passionate computer science student in my fourth year of studies. I have a keen interest in exploring various fields of computer science, and currently, I'm focused on expanding my knowledge in machine learning.
 
