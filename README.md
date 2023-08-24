@@ -5,10 +5,14 @@
 ## My Projects
 
 ### Project 1: Afro Beats Night club
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="flex: 1; max-width: 300px; margin: 10px;">
 <a href="https://afrobeatsdundee.vercel.app/">
   <img src="public/preview_afro.png" alt="Afro Beats Night club" style="border-radius: 50%;">
 </a>
-Afro Beats Night club website
+<p>Afro Beats Night club website</p>
+</div>
+</div>
 
 ### Hi there 👋
 I'm Ntina, a passionate computer science student in my fourth year of studies. I have a keen interest in exploring various fields of computer science, and currently, I'm focused on expanding my knowledge in machine learning.
