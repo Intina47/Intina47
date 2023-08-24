@@ -1,6 +1,13 @@
 ## Language Breakdown
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Intina47&layout=compact&hide=html)
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Intina47&show_icons=true&theme=radical&exclude_repo=contributed&hide=contribs)
+
+## My Projects
+
+### Project 1: Project Name
+[![Project 1 Preview](path/to/project1/preview.png)]([https://vercel-project1-url.com](https://afrobeatsdundee.vercel.app/))
+Afro Beats Night club website
+
 ### Hi there 👋
 I'm Ntina, a passionate computer science student in my fourth year of studies. I have a keen interest in exploring various fields of computer science, and currently, I'm focused on expanding my knowledge in machine learning.
 
