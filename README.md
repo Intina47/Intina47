@@ -6,7 +6,7 @@
 
 ### Project 1: Afro Beats Night club
 <a href="https://afrobeatsdundee.vercel.app/">
-  <img src="public/afrobeats1.png" alt="Afro Beats Night club" style="border-radius: 50%;">
+  <img src="public/preview_afro.png" alt="Afro Beats Night club" style="border-radius: 50%;">
 </a>
 Afro Beats Night club website
 
