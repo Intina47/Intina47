@@ -10,6 +10,10 @@ recruiter: no??
 
 Ntina: yes *me👈🏿,*  **C++** love.
 
+recruiter: Great, ``#iostream``,
+
+Ntina: haha, never been better
+
 🚀Let's embrace the journey of continuous learning and exploration in the fascinating world of computer science.
 
 
