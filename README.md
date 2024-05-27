@@ -4,9 +4,7 @@
 
 ### Hi there 👋
 
-recruiter: you👉! **C++**, love?.
-
-recruiter: no??
+recruiter: you👉! **C++**, love?. No??
 
 Ntina: yes *me👈🏿,*  **C++** love.
 
