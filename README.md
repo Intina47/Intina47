@@ -17,7 +17,7 @@ Am Ntina. I code when am feeling bored, happy, tired or even sad. There's someth
    Nanéu is a dedicated Discord bot designed to make job searching easier. It automatically scrapes job postings from various sources and posts them directly to your Discord channel. It's like having a personal job assistant, always on the lookout for new opportunities for you! Codebase: [Nanéu](https://github.com/Intina47/nan-u.git)
 
 4. **comments_section_genie**
-This REST API retrieves comments from a YouTube video and performs sentiment analysis, identifys trending topics, and question detection on each comment using the Google Cloud Natural Language API.
+This REST API retrieves comments from a YouTube video and performs sentiment analysis, identifys trending topics, and question detection on each comment using the Google Cloud Natural Language API. Codebase: [comments_section_genie](https://github.com/Intina47/comments_section_genie.git)
 
 
 🚀Let's embrace the journey of continuous learning and exploration in the fascinating world of computer science.
