@@ -3,14 +3,7 @@
 ![mamba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Intina47&show_icons=true&theme=radical&exclude_repo=contributed&hide=contribs)
 
 ### Hi there 👋
-
-recruiter: 👉you! **C++**, love?. No??
-
-Ntina: yes *me👈🏿,*  **C++** love.
-
-recruiter: Great, ``#iostream``,
-
-Ntina: haha, never been better
+Am Ntina. I code when am feeling bored, happy, tired or even sad. There's something about opening up that code editor that gives me peace and gives my life a purpose.
 
 ### My Late Night Weekend Projects
 
