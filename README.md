@@ -21,5 +21,3 @@ This REST API retrieves comments from a YouTube video and performs sentiment ana
 
 
 🚀Let's embrace the journey of continuous learning and exploration in the fascinating world of computer science.
-
-
