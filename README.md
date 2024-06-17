@@ -23,7 +23,7 @@ This REST API retrieves comments from a YouTube video and performs sentiment ana
 
 *-*https://tele-port-board.vercel.app
 
-*-*https://uk-skilled-visa-companies-6xmr1rvzg-intina47s-projects.vercel.app
+*-*https://uk-skilled-visa-companies.vercel.app/
 
 ** best one of all: **https://afrobeatsdundee.co.uk/
 
