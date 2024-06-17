@@ -28,4 +28,4 @@ This REST API retrieves comments from a YouTube video and performs sentiment ana
 ** best one of all: **https://afrobeatsdundee.co.uk/
 
 
-🚀As it appears, you don't need much to be a developer, all you need is a growth mindset, be ready to be challenged in the most extreme possible way and be consistent in it.
+🚀As it appears, you don't need much to be a developer, all you need is a growth mindset, be ready to be challenged in the most extreme possible way, be consistent in terms of practice as it helps you keep up with the ever changing dynamics and best of them all love it.
