@@ -25,5 +25,7 @@ This REST API retrieves comments from a YouTube video and performs sentiment ana
 
 *-*https://uk-skilled-visa-companies-6xmr1rvzg-intina47s-projects.vercel.app
 
+** best one of all: **https://afrobeatsdundee.co.uk/
 
-🚀Let's embrace the journey of continuous learning and exploration in the fascinating world of computer science.
+
+🚀As it appears, you don't need much to be a developer, all you need is a growth mindset, be ready to be challenged in the most extreme possible way and be consistent in it.
