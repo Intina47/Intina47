@@ -5,7 +5,7 @@
 ### Hi there 👋
 Am Ntina. I code when am feeling bored, happy, tired or even sad. There's something about opening up that code editor that gives me peace and gives my life a purpose.
 
-### My Late Night Weekend Projects
+### My Weekend Projects
 
 1. **GitHub Followers Manager**
    Manage your GitHub followers effortlessly! This tool helps you maintain a professional follower/following ratio by unfollowing users who don't reciprocate the connection. Check it out here: [GitHub Followers Manager](https://github-followers-manager.vercel.app/)
