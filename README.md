@@ -7,7 +7,7 @@ Am Ntina. I code when am feeling bored, happy, tired or even sad. There's someth
 
 ### My Weekend Projects
 
-1. *GitHub Followers Manager*
+1. **GitHub Followers Manager**
    Manage your GitHub followers effortlessly! This tool helps you maintain a professional follower/following ratio by unfollowing users who don't reciprocate the connection. Check it out here: [GitHub Followers Manager](https://github-followers-manager.vercel.app/)
 
 2. **Generate Image Metadata**
